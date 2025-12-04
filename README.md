@@ -52,7 +52,7 @@ Enable **Internet Information Services (IIS)**.
 ## 🔹 **Step 2 — Install Web Platform Installer**
 
 Use the following link to download the required installation tools:  
-➡️ https://bit.ly/3WFRPdg  
+➡️ (https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) 
 
 Install **Web Platform Installer**, then search for and install:
 
