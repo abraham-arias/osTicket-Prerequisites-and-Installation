@@ -52,7 +52,7 @@ Enable **Internet Information Services (IIS)**.
 ## 🔹 **Step 2 — Install Web Platform Installer**
 
 Use the following link to download the required installation tools:  
-➡️ <a href="https://www.w3schools.com](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6" target="_blank">Download Files</a>
+➡️ <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6" target="_blank">Download Files</a>
 
 Install **Web Platform Installer**, then search for and install:
 
